@@ -1,3 +1,11 @@
+{{
+    ASC+ Hand-held Device Code
+    Works with Propeller Arduino Sheild Compatible+ (ASC+) Board.
+    Matheus Barbosa
+    10-22-2015
+    Oklahoma State University
+}}
+
 con
 
   _clkmode = xtal1 + pll16x
